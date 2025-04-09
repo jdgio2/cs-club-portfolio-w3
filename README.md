@@ -1,8 +1,8 @@
-# CS Club Portfolio
+# CS Club Portfolio Week 1
 
 ## 📌 Overview
 
-This repository contains the starter code for the CS Club portfolio project. We'll be building a personal portfolio website using React and Vite.
+This repository contains the completed code for Week 1 of the CS Club React Portfolio project.
 
 ## 📦 Setup Instructions
 
