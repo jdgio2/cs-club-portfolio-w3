@@ -1,12 +1,12 @@
-import About from "./About";
-import Header from "./Header";
-import Hero from "./Hero";
-import Projects from "./Projects";
-import Skills from "./Skills";
-import Footer from "./Footer";
+import About from "./components/About";
+import Header from "./components/Header";
+import Hero from "./components/Hero";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
+import Footer from "./components/Footer";
 export default function App() {
     return (
-        <div>
+        <div className="gap-4 flex flex-col">
             <Header />
             <Hero />
             <About />
