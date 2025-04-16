@@ -34,7 +34,7 @@ export default function About() {
                 </div>
                 <div className="flex-1 flex justify-center">
                     <img
-                        src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-1d28-61f6-a9b0-56fdbdfb37d2/raw?se=2025-04-09T23%3A30%3A49Z&sp=r&sv=2024-08-04&sr=b&scid=370cd967-6515-5bae-bd29-65b23692eaf6&skoid=2f36945c-3adc-4614-ac2b-eced8f672c58&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-09T21%3A04%3A47Z&ske=2025-04-10T21%3A04%3A47Z&sks=b&skv=2024-08-04&sig=yHoMIrtvSMscAzL9aXPpgGIGVOCQlvcfc%2By9otF2lRQ%3D"
+                        src="/drguziabout.png"
                         alt="Dr. Guzi working"
                         className="rounded-2xl shadow-xl w-96 h-full object-cover"
                     />
