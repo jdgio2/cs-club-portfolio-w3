@@ -1,8 +1,8 @@
-# CS Club Portfolio Week 2
+# CS Club Portfolio Week 3
 
 ## 📌 Overview
 
-This repository contains the completed code for Week 2 of the CS Club React Portfolio project.
+This repository contains the completed code for Week 3 of the CS Club React Portfolio project.
 
 ## 📦 Setup Instructions
 
