@@ -28,3 +28,5 @@ npm run dev
 ```
 
 Then, click on the localhost link in your terminal to view the project in your browser.
+
+Also, [click here](https://drguzi.vercel.app/) to see the final portfolio live demo!
